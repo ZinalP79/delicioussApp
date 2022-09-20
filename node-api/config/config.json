@@ -1,0 +1,7 @@
+{
+    "database":{
+        "URL": "mongodb+srv://admin:OPXPydz6IaC9HzPC@deliciouss.whfpyzi.mongodb.net/delicioussdb?retryWrites=true"
+    },
+    "jwtToken": "appforsweet",
+    "port": 3000
+}
